@@ -5,7 +5,7 @@
  you will be able to see a frame with an heading Live Detection.
 
 # Requirements to run
- - python shell 3.10 
+ - python shell 3.10.11
  - opencv-python ver. 4 or above 
  - matplotlib
  - windows 10 or 11.
